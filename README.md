@@ -1,4 +1,4 @@
-Heyoo! Im Jan and I do Game Development and Web Development!
+Heyoo! Im Jan and I am a Game Developer, Software Developer and Web Developer!
 
 Currently my programming languages are:
 -Scratch
