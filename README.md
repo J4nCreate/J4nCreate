@@ -1,5 +1,5 @@
-<img width=1090px; height=130px; src="https://media.tenor.com/l74UYEZsjP8AAAAd/dancing-lizard.gif">
-<h1 align="center">Heyoo! I am JanCreate!</h1>
+<img   src="https://media.tenor.com/l74UYEZsjP8AAAAd/dancing-lizard.gif" width=1090px; height=130px; align="center">
+<h1 align="center">Heyoo! I am JanCreate!</h1> 
 <h3 align="center">An Amateur Full-Stack Developer currently learning! :D</h3>
 
 
